@@ -18,7 +18,7 @@ package spew_test
 
 import (
 	"fmt"
-	"github.com/davecgh/go-spew/spew"
+	"github.com/dvln/go-spew/spew"
 	"reflect"
 	"testing"
 )

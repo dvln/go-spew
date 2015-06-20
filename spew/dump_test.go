@@ -64,7 +64,7 @@ package spew_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/davecgh/go-spew/spew"
+	"github.com/dvln/go-spew/spew"
 	"testing"
 	"unsafe"
 )
