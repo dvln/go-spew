@@ -25,6 +25,7 @@ package spew_test
 
 import (
 	"fmt"
+
 	"github.com/dvln/go-spew/spew/testdata"
 )
 
